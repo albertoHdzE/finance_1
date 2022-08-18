@@ -1,4 +1,4 @@
-# Stock prices, analysis AND PREDICTION
+# Stock prices, analysis and prediction
 ![patterns](https://github.com/albertoHdzE/finance_1/blob/main/images/pattern2.png)
 
 In this project I used advances statistics methods, Machine learning and Artificial Intelligence trying to answer the following questions:
@@ -11,3 +11,4 @@ This project has as background philosophical questions that find solution in res
 2) What kind of computational and mathematical models realize such patterns
 3) If is possible to model such behavior, how much we can trust in such predictions?
 4) Is there a better way to approximate such complex behaviors? 
+
