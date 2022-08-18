@@ -12,3 +12,5 @@ This project has as background philosophical questions that find solution in res
 3) If is possible to model such behavior, how much we can trust in such predictions?
 4) Is there a better way to approximate such complex behaviors? 
 
+This code is explained in this site(https://sites.google.com/view/complexai/FINANCE)
+
