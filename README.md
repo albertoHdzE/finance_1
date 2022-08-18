@@ -1,3 +1,6 @@
+# Stock prices, analysis AND PREDICTION
+![patterns](https://github.com/albertoHdzE/finance_1/blob/main/images/pattern2.png)
+
 In this project I used advances statistics methods, Machine learning and Artificial Intelligence trying to answer the following questions:
 1) Are there regularities in finance historical data? if so
 2) Is it possible to express historical finance data as a series of regularities or small/simple patterns? If so what could be the right way to represent them (in length and shape), mathematical models? computational ones?
